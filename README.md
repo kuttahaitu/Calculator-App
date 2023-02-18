@@ -7,5 +7,5 @@ a colorful Android Calculator App with few special features
 
 <h1>Previews</h1>
 <img src="https://github.com/kuttahaitu/Calculator-App/blob/main/screenshots/s2.jpg"></img>
-<img src="https://github.com/kuttahaitu/Calculator-App/blob/main/screenshots/s1.jpg></img>
-<img src="https://github.com/kuttahaitu/Calculator-App/blob/main/screenshots/s3.jpg></img>
+<img src="https://github.com/kuttahaitu/Calculator-App/blob/main/screenshots/s1.jpg"></img>
+<img src="https://github.com/kuttahaitu/Calculator-App/blob/main/screenshots/s3.jpg"></img>
